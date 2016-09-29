@@ -37,11 +37,18 @@
 
     \vspace*{2cm}
     
-    \ABNTEXchapterfont\large\imprimirautor
-
+    \hspace{.45\textwidth}
+    \begin{minipage}{.5\textwidth}
+      \SingleSpacing
+        \ABNTEXchapterfont\large\imprimirautor
+    \end{minipage}
+    
     \vfill
+
     \ABNTEXchapterfont\large\imprimirtitulo
     \vfill
+    \vspace*{2cm}
+    \vspace*{2cm}
     
     \large\imprimirlocal
 
